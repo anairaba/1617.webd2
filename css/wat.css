@@ -1,0 +1,17 @@
+#content {
+  margin-top: 100px;
+}
+
+#content > p {
+  line-height: 20pt;
+}
+
+.message {
+  margin-top: 50px;
+  font-family:  Brandon Grotesque Light;
+  margin-bottom: 100px;
+}
+
+.message img {
+  margin-bottom: 15px;
+}

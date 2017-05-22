@@ -1,0 +1,17 @@
+#content {
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+
+#content h2 {
+  font-size: 16pt;
+}
+
+#content p {
+  font-size: 15pt;
+  font-family: Brandon Grotesque Light;
+}
+
+#content img {
+  margin-bottom: 10px;
+}

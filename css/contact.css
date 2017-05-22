@@ -1,0 +1,32 @@
+#content {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  font-size: 18pt;
+  font-family: Brandon Grotesque Light;
+}
+
+input{
+  width: 100%;
+  height: 40px;
+  margin-bottom: 20px;
+  font-family: Brandon Grotesque Light;
+  border-width: 1px;
+  border-color: black;
+  padding: 10px;
+}
+
+input[type="submit"]{
+  color: white;
+  background-color: black;
+}
+
+textarea {
+  width: 100%;
+  font-family: Brandon Grotesque Light;
+  border-color: black;
+  padding: 10px;
+}
+
+strong {
+    font-family: Brandon Grotesque Bold;
+}
